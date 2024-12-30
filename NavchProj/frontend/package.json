@@ -1,0 +1,26 @@
+{
+  "name": "task-manager-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Task Manager Frontend with React + Material UI",
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.13.7",
+    "axios": "^1.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.12.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "proxy": "http://localhost:5000"
+}
+
